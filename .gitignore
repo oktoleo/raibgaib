@@ -1,0 +1,5 @@
+# File: .gitignore
+.env
+*.env
+config.json
+secrets/
