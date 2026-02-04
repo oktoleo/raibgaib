@@ -1,5 +1,12 @@
-# File: .gitignore
+# .gitignore
 .env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
 *.env
-config.json
-secrets/
+secrets.json
+config.py
